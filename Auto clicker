@@ -1,0 +1,1 @@
+javascript:function autoClick() {const element = document.querySelector('.element-to-click');setInterval(() => {element.click(); }, 1000); // Auto-click every second (1000ms)}autoClick();
